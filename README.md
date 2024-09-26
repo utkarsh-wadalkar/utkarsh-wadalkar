@@ -2,7 +2,7 @@
 - 👀 I’m Love Coding in (HTML,CSS,JavaScript,Python) Also a Wordpress Developer
 - 🌱 I’m currently learning JavaScript and Artificial Intelligence Data Science in Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me- utkarshw1625@gmail.com
+- 📫 How to reach me- 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
