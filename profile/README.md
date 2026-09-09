@@ -8,13 +8,7 @@
 
 ⚡ Fun fact: I enjoy turning technical workflows into simple, user-friendly automation and applications.
 
-<a href="https://whoburnedmore.com/u/utkarsh-wadalkar">
-  <img
-    src="https://whoburnedmore-card.vercel.app/api/card/utkarsh-wadalkar/landscape.png"
-    width="720"
-    alt="AI coding token usage"
-  />
-</a>
+[![whoburnedmore](https://api.whoburnedmore.com/v1/badge/utkarsh-wadalkar.svg)](https://whoburnedmore.com/u/utkarsh-wadalkar)
 
 <!---
 utkarsh-wadalkar/utkarsh-wadalkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
