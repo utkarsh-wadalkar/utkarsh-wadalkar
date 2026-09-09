@@ -10,7 +10,10 @@
 
 <a href="https://whoburnedmore.com/u/utkarsh-wadalkar">
   <img
-    src="https://whoburnedmore-card.vercel.app/api/card/utkarsh-wadalkar/landscape.png"/>
+    src="https://whoburnedmore-card.vercel.app/api/card/utkarsh-wadalkar/landscape.png"
+    width="720"
+    alt="AI coding token usage"
+  />
 </a>
 
 <!---
