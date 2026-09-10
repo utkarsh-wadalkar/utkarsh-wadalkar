@@ -8,13 +8,14 @@
 
 ⚡ Fun fact: I enjoy turning technical workflows into simple, user-friendly automation and applications.
 
-<p align="center">
+
  <a href="https://whoburnedmore.com/u/utkarsh-wadalkar">
   <img
-    src="https://wbm-card.vercel.app/api/card/utkarsh-wadalkar/hero.png"
+    src = "https://wbm-card.vercel.app/api/card/utkarsh-wadalkar/hero.png"
+    width = 500px
   />
 </a>
-</p>
+
 
 <!---
 utkarsh-wadalkar/utkarsh-wadalkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
